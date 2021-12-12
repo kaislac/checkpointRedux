@@ -1,0 +1,5 @@
+export const ADDTODO = 'ADDTODO'
+export const ISDONE = 'ISDONE'
+export const SHOWALL = 'SHOWALL'
+export const SHOWINCOMPLETE = 'SHOWINCOMPLETE'
+export const SHOWDONE = 'SHOWDONE'
